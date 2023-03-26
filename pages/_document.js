@@ -5,7 +5,7 @@ export default function Document() {
     <Html lang="en">
       <Head />
       <body>
-        <Main />
+        <Main suppressHydrationWarning/>
         <NextScript />
       </body>
     </Html>
